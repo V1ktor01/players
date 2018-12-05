@@ -1,5 +1,7 @@
 body {margin:0;
-  background-image:linear-gradient(to top, #d6053c 40%, #ffffff 50%);   }
+  background-image: url("https://fsb.zobj.net/crop.php?r=MCdoE-rJcJuT3GZj97XEOvaL27bOxx1s8mmKpXavNFCj7bKd0N1Giu2kLioGCewiicckifJzRxu2gMdpaxYV6rHNaW9CCtr-q_-7xzHvfkdhWRdNrB2VutN6SpYfDGlheeF_-jns16g8A58t");
+background-size: 100%;
+ }
 .container{
 padding-top: 13%;
 }
@@ -13,6 +15,7 @@ ul {
     top: 0;
     width: 100%;
 }
+
 .text{
   position: absolute;
   right: 0%;
@@ -22,6 +25,11 @@ ul {
   padding-right: 20px;
   font-size: 16px;
   top: 40%;
+}
+.start{
+  text-align: left;
+  background-color: white;
+  opacity: 0.85;
 }
 p
 {
@@ -59,7 +67,7 @@ li {
 h1{
   font-size: 333%;
   text-align: center;
-  color: #260ea1;
+  color: ##000000;
   padding-top: 10%;
 
 }
@@ -80,12 +88,13 @@ text-align:left;
     line-height: 16px;
     margin-left: 10.5%;
     margin-right: 10.5%;
-    background-color: #ececec7a;
+    box-shadow: 1px 0px 20px 20px white;;
+    background-color: white;
     padding-bottom: 10px;
 }
 h2{
   font-size: 200%;
-    color: #154ef9b8;
+    color: #000000;
     font-style: normal;
     text-indent: 10%;
     }
@@ -93,7 +102,7 @@ h4{
   padding-left: .8125rem;
 padding-right: .8125rem;
 font-size: 60px;
-color: #e5e6e7;
+color: ##000000;
 }
 .active {
     background-color: #d6053c;
