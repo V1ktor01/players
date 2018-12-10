@@ -29,7 +29,6 @@ ul {
 .start{
   text-align: left;
   background-color: white;
-  opacity: 0.85;
 }
 p
 {
@@ -97,6 +96,7 @@ h2{
     color: #000000;
     font-style: normal;
     text-indent: 10%;
+      text-shadow: 2px 2px #a7a7a7;
     }
 h4{
   padding-left: .8125rem;
